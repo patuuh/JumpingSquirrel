@@ -3,4 +3,4 @@ First game made. C#
 Authors Patrik Jokela, Juuso Viljamaa 2018.
 
 To start:
-Open JumpingSquirrel.exe and enjoy the game =)
+Open JumpingSquirrel.csproj in VisualStudio and enjoy the game =)
