@@ -44,7 +44,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="JumpingSquirrel.cs">
-      <Link>JumpingSquirrel.cs</Link>
+      <Link>.\JumpingSquirrel.cs</Link>
     </Compile>
     <Compile Include="Ohjelma.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
