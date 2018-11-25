@@ -43,7 +43,7 @@
     <StartupObject>Program.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\JumpingSquirrel.cs">
+    <Compile Include="JumpingSquirrel.cs">
       <Link>JumpingSquirrel.cs</Link>
     </Compile>
     <Compile Include="Ohjelma.cs" />
