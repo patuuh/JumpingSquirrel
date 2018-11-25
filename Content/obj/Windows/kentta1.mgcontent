@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/mytemp/jokelapz/ht/trunk/suunnitelma/JumpingSquirrel/Content/kentta1.txt</SourceFile>
+  <SourceTime>2018-11-21T10:21:11.3966717+02:00</SourceTime>
+  <DestFile>D:/mytemp/jokelapz/ht/trunk/suunnitelma/JumpingSquirrel/Content/bin/Windows/kentta1.xnb</DestFile>
+  <DestTime>2018-11-21T10:21:13.9475354+02:00</DestTime>
+  <Importer>TextFileImporter</Importer>
+  <ImporterTime>2018-08-30T18:14:34+03:00</ImporterTime>
+  <Processor>TextFileContentProcessor</Processor>
+  <ProcessorTime>2018-08-30T18:14:34+03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
